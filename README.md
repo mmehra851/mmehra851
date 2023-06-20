@@ -13,7 +13,7 @@
 - 💬 Ask me about **Node.js | Html | CSS | JavaScript**
 
 - 📫 How to reach me **mmehra851@gmail.com**
-- 📫 Portfolio <a href="https://mmehra851.github.io/">Portfolio</a>
+- 📫 Portfolio <a href="https://mmehra851.github.io/">mmehra851</a>
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1F0s5MYymgRfyoE6Y95Ww-KBEOhd6NGSX?usp=share_link](https://drive.google.com/drive/folders/1F0s5MYymgRfyoE6Y95Ww-KBEOhd6NGSX?usp=share_link)
 
