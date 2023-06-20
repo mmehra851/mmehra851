@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Mehra</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
 <img src="https://camo.githubusercontent.com/8ba1e66bcfa048214cf17f235c341742347c9c248831d044aa888acbeec89502/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966" align="center" style="width: 100% , height:200px " />
-<a href="https://mmehra851.github.io/">Portfolio</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmehra851&label=Profile%20views&color=0e75b6&style=flat" alt="mmehra851" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmehra851" alt="mmehra851" /></a> </p>
@@ -13,6 +13,7 @@
 - 💬 Ask me about **Node.js | Html | CSS | JavaScript**
 
 - 📫 How to reach me **mmehra851@gmail.com**
+- 📫 Portfolio <a href="https://mmehra851.github.io/">Portfolio</a>
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1F0s5MYymgRfyoE6Y95Ww-KBEOhd6NGSX?usp=share_link](https://drive.google.com/drive/folders/1F0s5MYymgRfyoE6Y95Ww-KBEOhd6NGSX?usp=share_link)
 
