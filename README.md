@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmehra851" alt="mmehra851" /></a> </p>
      
-- 🔭 I’m currently working on E-commerce platform with payment option **acceptable-popcorn-8320**
-
 - 🌱 I’m currently learning **Node.js | Express | MongoDB | AWS | SQL**
 
 - 💬 Ask me about **Node.js | Html | CSS | JavaScript**
